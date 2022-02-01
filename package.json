@@ -2,7 +2,7 @@
   "name": "character-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://moralesjj.github.io/character-rolodex",
+  "homepage": "https://moralesjj.github.io/character-rolodex/index.html",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
